@@ -1,20 +1,20 @@
 # undergraduate_thesis
 
-Дипломный проект посвящен анализу процесса найма с использованием методов Process Mining и Reinforcement Learning алгоритмов. 
+Undegraduate Thesis is devoted to the analysis of the hiring process using the methods of Process Mining and Reinforcement Learning algorithms. 
 
-В проекте используются реальные данные, преобразованные в нужный формат. Анализ заключается в построении графа процесса, выявлении узких мест и моделировании различных сценарии для его оптимизации.
+The project uses real data converted into the required format. The analysis consists of constructing a process graph, identifying bottlenecks and modeling various scenarios for its optimization.
 
-## Установка библиотек и запуск проекта
+## Libraries installation and running the project
 
-Чтобы запустить проект, необходимо:
+To start a project, you need to:
 
-1. Установить Python 3.10
+1. Install Python 3.10
 
 `brew install python@3.10`
 
 `python3.10 --version`
 
-3. Создать виртуальное окружение
+3. Create a virtual environment
 
 `python3.10 -m venv venv`
 
@@ -24,18 +24,18 @@
 
 `pip install --upgrade pip setuptools wheel`
 
-4. Установить необходимые библиотеки
+4. Install necessary libraries
 
 `pip install sberpm streamlit pandas numpy matplotlib graphviz gymnasium`
 
-5. Загрузить и распаковать архив по ссылке [https://github.com/argareeva/undergraduate_thesis].
+5. Download and unzip the archive from the link [https://github.com/argareeva/undergraduate_thesis].
 
-6. Запустить приложение перейдя в нужную папку на своем устройстве:
+6. Launch the application by going to the desired folder on your device:
 
 `cd /путь к папке/app`
 
 `streamlit run app.py`
 
-7. Перейти в браузер по локальному адресу
+7. Go to browser at local address
 
-8. Загрузить тестовые данные. Доступны в текущем репозитории с названием HR_log_obezlich.csv.
+8. Download test data. Available in the current repository named HR_log_obezlich.csv.
