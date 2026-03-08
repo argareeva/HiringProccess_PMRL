@@ -32,7 +32,7 @@ To start a project, you need to:
 
 6. Launch the application by going to the desired folder on your device:
 
-`cd /путь к папке/app`
+`cd / .. /app`
 
 `streamlit run app.py`
 
