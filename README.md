@@ -1,6 +1,6 @@
-# undergraduate_thesis
+# HiringProccess_PMRL
 
-Undegraduate Thesis is devoted to the analysis of the hiring process using the methods of Process Mining and Reinforcement Learning algorithms. 
+This platfrom is devoted to the analysis of the hiring process using the methods of Process Mining and Reinforcement Learning algorithms. 
 
 The project uses real data converted into the required format. The analysis consists of constructing a process graph, identifying bottlenecks and modeling various scenarios for its optimization.
 
@@ -28,7 +28,7 @@ To start a project, you need to:
 
 `pip install sberpm streamlit pandas numpy matplotlib graphviz gymnasium`
 
-5. Download and unzip the archive from the link [https://github.com/argareeva/undergraduate_thesis].
+5. Download and unzip the archive from the link [https://github.com/argareeva/HiringProccess_PMRL].
 
 6. Launch the application by going to the desired folder on your device:
 
